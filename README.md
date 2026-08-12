@@ -16,12 +16,12 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus on the latest dataset only; historization of data is not required.
+- **Scope**: Focus on the latest dataset only; history data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytical teams.
 
 ---
 
-### BI: Analytical & Reporting (Dta Analytics)
+### BI: Analytical & Reporting (Data Analytics)
 
 ### Objective
 Develop SQL - based analytics to deliver detailed insights into:
@@ -39,6 +39,6 @@ This project is license under the [MIT License].(LICENSE).  You are free to use,
 
 ## About Me
 
-I am Brian Otto, and IT professional exploring data analysis projects to improve skills and knowledge.
+I am Brian Otto; a data analysis taking on additional projects to improve skills and knowledge.
 
 
