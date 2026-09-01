@@ -1,6 +1,6 @@
 # sql-data-warehouse-project
 
-Completed as a guided learning exercise following Baraa Khatib Salkini's The Complete SQL Bootcamp — built to practice SQL data exploration, cleaning, and validation.
+Completed as a guided learning exercise following Baraa Khatib Salkini's The Complete SQL Bootcamp — designed and built the data model and ETL process for each layer of the warehouse, from raw ingestion through integration to reporting-ready data.
 
 Build a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
 
